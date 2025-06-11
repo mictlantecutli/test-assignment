@@ -1,6 +1,8 @@
 import React from "react";
 import HeroImage from "./HeroImage";
 import Sidebar from "./Sidebar";
+import Sidebar02 from "./SidebarSecc02";
+import DescriptionBuild from "./DescBuild";
 
 
 
@@ -14,7 +16,10 @@ const HomePage = () => {
           <Sidebar />
           <HeroImage src="/IMG_6540.png" alt=""/>
         </div>
-        <div className="section2">Section2</div>
+        <div className="section2">
+          <DescriptionBuild /> 
+          <Sidebar02 />
+        </div>
       </div>
     </div>
   );

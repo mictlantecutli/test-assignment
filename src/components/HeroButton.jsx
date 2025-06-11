@@ -1,7 +1,7 @@
 import React from 'react';
 import HeroTitle from './HeroTitle';
 
-const HeroBtn = () => {
+const HeroButton = () => {
   return (
     <>
         <a href="#" className="btnHero">Explore Advantages</a>
@@ -9,4 +9,4 @@ const HeroBtn = () => {
   );
 };
 
-export default HeroBtn;
+export default HeroButton;

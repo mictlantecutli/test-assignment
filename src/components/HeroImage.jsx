@@ -1,6 +1,7 @@
 import React from 'react';
 import HeroTitle from './HeroTitle';
-import HeroBtn from './HeroButton';
+import HeroTitleTwo from './HeroTitleTwo';
+import HeroButton from './HeroButton';
 
 const HeroImage = ({ src, alt }) => {
   return (
@@ -13,7 +14,8 @@ const HeroImage = ({ src, alt }) => {
             className="imageHero"
             />
         </div>
-        <HeroBtn />
+        <HeroButton />
+        <HeroTitleTwo />
     </>
   );
 };
