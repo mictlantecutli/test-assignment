@@ -20,7 +20,7 @@ const HomePage = () => {
           <DescriptionBuild /> 
           <Sidebar02 />
         </div>
-        <p>Hola</p>
+        
       </div>
     </div>
   );
