@@ -1,7 +1,7 @@
 import React from "react";
 import HeroImage from "./HeroImage";
-import Sidebar from "./Sidebar";
-import Sidebar02 from "./SidebarSecc02";
+import Sidebar from "../../components/navbars/Sidebar";
+import Sidebar02 from "../../components/navbars/SidebarSecc02";
 import DescriptionBuild from "./DescBuild";
 
 

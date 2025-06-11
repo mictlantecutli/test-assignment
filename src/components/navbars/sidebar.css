@@ -1,0 +1,14 @@
+:root {
+  --color-btn-primario: #002235;
+  --color-yellow-official: #F9AC35;
+  --color-background-sec02: #304553;
+  --color-btn-materials01: #405b6c;
+  --color-btn-request: #FF0000;
+ 
+}
+
+/*Sidebar menu*/
+.sidebarMenu{
+  width: 70px;
+  background-color: var(--color-btn-primario);
+}
